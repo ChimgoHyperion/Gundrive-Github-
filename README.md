@@ -8,4 +8,5 @@ Web 3 features can be found under: Main Menu/Shop/Transactions
 In game item purchases are made in: Main Menu/Shop/Guns ,for Weapons and Main Menu/Shop/Skins and Coins. for Skins and Purchasing using fiat currency
 
 FUTURE UPDATES TO BE MADE
--Currently the tokens transfer is having issues due to Playfab website is down so aoi calls can be an issue -Multiplayer will be included in further commits and more skins and maps to improved user engagement
+-Currently the tokens transfer is having issues due to Playfab website is down so api calls can be an issue
+-Multiplayer will be included in further commits and more skins and maps to improved user engagement
